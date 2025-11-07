@@ -118,7 +118,6 @@ The frontend dynamically displays both messages with smooth animations.
 📊 Implement chat analytics dashboard for admin insights.
 
 👨‍💻 Developed By
-
-Suryansh Shandilya
+Soumay soni and aamarsh thakur
 Under the project: AI-Powered Conversational Bot (Nova)
 Built as part of a Machine Learning / AI System Integration practical assignment.
